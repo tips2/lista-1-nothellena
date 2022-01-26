@@ -1,0 +1,2 @@
+Insira o objetivo(exemplo: R=SIM): R=SIM
+R=SIM é True
